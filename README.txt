@@ -1,4 +1,4 @@
-QRNA 0.2 - Quick Refinement of Nucleic Acids 0.2
+QRNA 0.2 - Quick Refinement of Nucleic Acids 0.3
 Julek Stasiewicz 2012
 
 The command to build multiprocessor version of QRNA is:
